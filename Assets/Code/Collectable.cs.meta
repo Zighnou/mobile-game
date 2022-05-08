@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 8b933c114fa675f498b4822bf562be17
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - coinClip: {fileID: 8300000, guid: 7172e657536aa47ff8bd8630836c8fb3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

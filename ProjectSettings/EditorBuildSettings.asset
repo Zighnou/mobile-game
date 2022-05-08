@@ -5,13 +5,61 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 6288dc8383c2cfa4cb9284528ecabe62
   - enabled: 1
     path: Assets/Scenes/Level1.unity
     guid: 2b5ba414b1bc84c4da1d2b8ffff95d20
   - enabled: 1
     path: Assets/Scenes/Level2.unity
     guid: 905fc90ba5959481a8454da0bed6833d
+  - enabled: 1
+    path: Assets/Scenes/Tests/TestScene.unity
+    guid: 1a1aad03e88a24960beb9eb8f08704a1
+  - enabled: 1
+    path: Assets/Scenes/Tests/TestSquare.unity
+    guid: 5edb31a1de282df4d93a4ddb186c43d5
   - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Tests/TestScene.unity
+    guid: 1a1aad03e88a24960beb9eb8f08704a1
+  - enabled: 1
+    path: Assets/Scenes/Tests/TestSquare.unity
+    guid: 5edb31a1de282df4d93a4ddb186c43d5
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 8c75d833d6fb54fb587702c2eaa18c50
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 905fc90ba5959481a8454da0bed6833d
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: 09fc61ee540dd4553a89c06648d23c18
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 8c75d833d6fb54fb587702c2eaa18c50
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 87f625e39a5dd47019291a14edc18448
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: 2e741a854248840e18db5bd32a77ea48
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 78a4919f5d5474e2eb582a65c4a34609
+  - enabled: 1
     path: Assets/Scenes/Tests/TestScene.unity
     guid: 1a1aad03e88a24960beb9eb8f08704a1
   - enabled: 0
@@ -20,9 +68,18 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 8c75d833d6fb54fb587702c2eaa18c50
   - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
+    path: Assets/Scenes/(name_conflict)_StoryScene.unity
+    guid: 9495852cc8e7044719c486fb83be63dd
+  - enabled: 1
+    path: Assets/Scenes/StoryScene.unity
+    guid: 5f985d96371605647acbe0f076b9656a
+  - enabled: 1
+    path: Assets/Scenes/Death.unity
+    guid: 37b06f2075773894b834f60b12795f2b
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: d9165ec930e546243be45d304ca515f8, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 1d713cb0c50cd9943bcfbdb5c4858f31, type: 2}

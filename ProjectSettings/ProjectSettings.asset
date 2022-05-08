@@ -12,8 +12,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
-  productName: Mobile Game
+  companyName: SCAZY
+  productName: Piet Puzzles
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -56,8 +56,8 @@ PlayerSettings:
   androidShowActivityIndicatorOnLoading: -1
   iosUseCustomAppBackgroundBehavior: 0
   iosAllowHTTPDownload: 1
-  allowedAutorotateToPortrait: 1
-  allowedAutorotateToPortraitUpsideDown: 1
+  allowedAutorotateToPortrait: 0
+  allowedAutorotateToPortraitUpsideDown: 0
   allowedAutorotateToLandscapeRight: 1
   allowedAutorotateToLandscapeLeft: 1
   useOSAutorotation: 1
@@ -104,7 +104,7 @@ PlayerSettings:
   xboxEnableHeadOrientation: 0
   xboxEnableGuest: 0
   xboxEnablePIXSampling: 0
-  metalFramebufferOnly: 0
+  metalFramebufferOnly: 1
   xboxOneResolution: 0
   xboxOneSResolution: 0
   xboxOneXResolution: 3
@@ -136,7 +136,7 @@ PlayerSettings:
     Others: 1
   bundleVersion: 1.0.2
   preloadedAssets:
-  - {fileID: -404088434162681444, guid: d9165ec930e546243be45d304ca515f8, type: 2}
+  - {fileID: 4718326750588772135, guid: d9165ec930e546243be45d304ca515f8, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -223,7 +223,7 @@ PlayerSettings:
   iOSURLSchemes: []
   macOSURLSchemes: []
   iOSBackgroundModes: 0
-  iOSMetalForceHardShadows: 0
+  iOSMetalForceHardShadows: 1
   metalEditorSupport: 1
   metalAPIValidation: 0
   iOSRenderExtraFrameOnPause: 0
@@ -429,7 +429,7 @@ PlayerSettings:
   logObjCUncaughtExceptions: 1
   enableCrashReportAPI: 0
   cameraUsageDescription: 
-  locationUsageDescription: 
+  locationUsageDescription: None
   microphoneUsageDescription: 
   bluetoothUsageDescription: 
   switchNMETAOverride: 
@@ -763,7 +763,7 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 0
+  activeInputHandler: 1
   cloudProjectId: 08a788dc-717c-4f4c-a94d-2e62c0a40d12
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []

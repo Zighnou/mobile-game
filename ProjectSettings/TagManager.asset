@@ -9,11 +9,12 @@ TagManager:
   - Coin
   - Wall
   - Door
+  - Spike
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Wall
   - Water
   - UI
   - 
